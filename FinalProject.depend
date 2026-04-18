@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1776481610 source:c:\users\notebook\desktop\проект\finalproject\src\lab1.c
+	"../include/lab1.h"
+
+1776481610 c:\users\notebook\desktop\проект\finalproject\include\lab1.h
+
+1776481589 source:c:\users\notebook\desktop\проект\finalproject\src\lab2.c
+	"../include/lab2.h"
+
+1776481610 c:\users\notebook\desktop\проект\finalproject\include\lab2.h
+
